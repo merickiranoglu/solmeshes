@@ -10,6 +10,17 @@
 <p>When it comes to blockchain technology, even static web pages have amazing capabilities. Solana deserves better NFT projects. </p>
 <p>This is an open source project dedicated to Solana NFT ecosystem.</p>
 
+<h3> How to use </h3>
+
+Fork this repository, nuxt project is located in /nuxtproject folder.
+
+<pre>
+<code>cd nuxtproject</code>
+<code>npm install</code>
+<code>npm run dev</code>
+</pre>
+
+
 <h3> Features </h3>
 
 - Solana-web3.js Implementations
