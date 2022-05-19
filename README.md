@@ -1,6 +1,8 @@
 # [SolMeshes](https://merickiranoglu.github.io/solmeshes "SolMeshes, an NFT project on Solana")
 <h3> The Project </h3>
 
+Demo Link : https://merickiranoglu.github.io/solmeshes
+
 <p>SolMeshes is a trilogy of generative art NFT collection project on Solana Universe. The Project is inspired by the beauty of geometrical shapes and the Universe. </p>
 <p>The trilogy consists of SolShapes, SolMeshClassics, and SolMeshConstellations. All collections of the SolMeshes Project are uniquely generated art pieces formed of a combination of various attributes.</p>
 <p>SolMeshes is an active project launched using Metaplex Candy Machine, metadata of NFTs are stored on Arweave. </p>
